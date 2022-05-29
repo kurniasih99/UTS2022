@@ -55,7 +55,7 @@ export default function Login({navigation}) {
           navigation.navigate('Register')
         }}
       >
-        Buat akun Bayar! Daftar
+        Buat akun Baru! Daftar
       </Text>
     </View>
   )
