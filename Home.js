@@ -12,7 +12,7 @@ export default function App({navigation}) {
         <Text style={styles.text}>NIM : 2010034</Text>
         <Text style={styles.text}>Kelas : 1.4B / TI</Text>
       </View>
-      <Text style={styles.subtitle}>Semoga Sukses)</Text>
+      <Text style={styles.subtitle}>Semangat</Text>
       <Button
         title="Logout" 
         onPress={() => {
